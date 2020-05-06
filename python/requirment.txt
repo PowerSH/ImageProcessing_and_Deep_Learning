@@ -1,0 +1,6 @@
+1. Anaconda Prompt 를 실행합니다.
+2. pip install imageai 
+3. pip install keras==2.1.5
+4. pip install tensorflow==1.15.0
+
+Anaconda 환경에 해당 설정을 세팅 후에 Spyder에서 구동해주시면 되겠습니다.
